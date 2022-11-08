@@ -1,0 +1,11 @@
+.mainContainer {
+  width: 50%;
+  height: 50vh;
+  margin: 0 auto;
+  background-color: rosybrown;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  border: 2px solid black;
+}
